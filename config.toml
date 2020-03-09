@@ -6,6 +6,7 @@ theme = "hugo-theme-cactus-plus"
 # googleAnalytics = "google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
+enableGitInfo = true
 
 [params]
     author = "laymonage"
@@ -30,6 +31,9 @@ hasCJKLanguage = false
 
 
     enableNetlifyCMS = true
+
+    gitUrl = "https://github.com/laymonage/blog/commit/"
+    showGitDate = false
 
 
     enableGoogleAnalytics = false
