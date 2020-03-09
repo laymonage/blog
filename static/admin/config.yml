@@ -1,12 +1,12 @@
 backend:
   name: github
-  repo: laymonage/flee
+  repo: laymonage/blog
 
 publish_mode: editorial_workflow
 media_folder: static/images/uploads
 public_folder: /images/uploads
-site_url: https://flee.laymonage.com
-logo_url: https://flee.laymonage.com/images/logo.svg
+site_url: https://blog.laymonage.com
+logo_url: https://blog.laymonage.com/images/logo.png
 
 collections:
   - name: posts
