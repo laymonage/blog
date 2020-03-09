@@ -41,9 +41,9 @@ enableGitInfo = true
     # Set the value to your baidu analysis code if you want to use baidu analytics
     # baiduAnalytics = 'baidu_analysis_code'
 
-    enableTwitterCard = false
+    enableTwitterCard = true
     # The url for twitter card image, default is avatar.png in static/images directory
-    twitterCardImage = ""
+    twitterCardImage = "images/logo.png"
 
     enableIconCompat = true
 
