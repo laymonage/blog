@@ -1,2 +1,1 @@
-# Redirect default Netlify subdomain to primary domain
-https://flee.netlify.com/* https://flee.laymonage.com/:splat 301!
+https://blog-laymonage.netlify.com/* https://blog.laymonage.com/:splat 301!
