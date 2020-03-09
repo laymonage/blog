@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en"
-title = "flee"
+title = "laymonage"
 theme = "hugo-theme-cactus-plus"
 # googleAnalytics = "google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
@@ -9,10 +9,10 @@ hasCJKLanguage = false
 
 [params]
     author = "laymonage"
-    description = "free writing"
+    description = "laymonage's blog"
     avatarLink = ""
-    avatarImage = "logo.svg"
-    bio = "free writing about stuffs<br>to flee from other stuffs"
+    avatarImage = "logo.png"
+    bio = "journeys, experiences, and stuff"
 
     # twitter = "twitter_id"
     # facebook = "facebook_id"
@@ -21,7 +21,7 @@ hasCJKLanguage = false
     enableToc = true
 
     enableDisqus = true
-    disqusShortname = "flee-laymonage"
+    disqusShortname = "laymonage"
 
 
     enableSummary = true
@@ -66,7 +66,7 @@ hasCJKLanguage = false
     readMore = ""
 
     # Share
-    enableShare = false
+    enableShare = true
     tweet = "tweet"
     share = "share"
 
