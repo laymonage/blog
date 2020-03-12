@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://blog.laymonage.com/"
 languageCode = "en"
 title = "laymonage"
 theme = "hugo-theme-cactus-plus"
