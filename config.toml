@@ -21,8 +21,16 @@ enableGitInfo = true
     enableRSS = true
     enableToc = true
 
-    enableDisqus = true
+
+    enableDisqus = false
     disqusShortname = "laymonage"
+
+    enableUtterances = true
+    utterancesRepo = "laymonage/blog"
+    utterancesMapping = "og:title"
+    utterancesLabel = "comments"
+    utterancesThemeLight = "github-light"
+    utterancesThemeDark = "github-dark"
 
 
     enableSummary = true
