@@ -64,11 +64,6 @@ nav.main-nav a {
   }
 }
 
-b, strong {
-    font-weight: 600;
-    color: #1E2025;
-}
-
 em, i {
     font-style: italic;
 }
@@ -419,4 +414,8 @@ code {
 
 #post-list li {
     margin-left: 0;
+}
+
+p b, p strong {
+    font-weight: 600;
 }

@@ -61,3 +61,7 @@ figure img {
 .highlight pre {
     background-color: inherit !important;
 }
+
+.thin-white-overlay {
+    background-color: rgba(255, 255, 255, 0.1);
+}
