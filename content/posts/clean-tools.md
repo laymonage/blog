@@ -12,7 +12,10 @@ However, one way may be cleaner than the others.
 images = ["/images/uploads/ashpd-blueprint.jpg"]
 +++
 
-{{< figure src="/images/uploads/ashpd-blueprint.jpg" caption="Blueprint of a very sophisticated device." attr="(Half-Life Wiki)" attrlink="https://half-life.fandom.com/wiki/Aperture_Science_Handheld_Portal_Device" >}}
+{{< figure src="/images/uploads/ashpd-blueprint.jpg"
+caption="Blueprint of a very sophisticated device."
+attr="(Half-Life Wiki)"
+attrlink="https://half-life.fandom.com/wiki/Aperture_Science_Handheld_Portal_Device" >}}
 
 When building a software, it's always a relief to see that someone has made a
 **tool** to accomplish some of your use cases. Rather than spending your time
@@ -138,7 +141,7 @@ in the arrow functions. We need to find another way.
 If we **read** through the **documentation**, there is a section about
 [creating an `axios` instance][axios-instance]. Basically, you can create an
 axios instance with a custom configuration, including **`baseURL`**. You can
-call use the instance to call methods like `.get` and `.post` with the specified
+use the instance to call methods like `.get` and `.post` with the specified
 config.
 
 So, by using `axios` instances, we can do something like this:
@@ -180,14 +183,22 @@ module.exports = {
 };
 ```
 
-Therefore, you can easily change the base URL for different environments
+Thus, you can easily change the base URL for different environments
 without changing the code at all.
 
-As you can see, we're able to write cleaner code after spending some time to
-read the docs and **learn more about our tools**. This is true in most cases.
-In my experience, at least. So...
+Nowadays, tools and frameworks that are mature allow you to write clean code
+**if you know *how*** to make the most of them. As you can see, we're able to
+write cleaner code after spending some time to read the docs and
+**learn more about our tools**. Linters and
+[static code analysis][static-analysis] tools will definitely help as well.
+Knowledge of tools **isn't** the only *tool* <sup><sub>(heh)</sub></sup> that
+helps you write clean code, though. If you spend enough time coding, you'll
+develop your own **intuitions** and clean code just comes **naturally**.
+
+Still, to make the most of your tools, please...
 
 > **read the docs!**
 
 [axios]: https://github.com/axios/axios
 [axios-instance]: https://github.com/axios/axios/blob/master/README.md#creating-an-instance
+[static-analysis]: https://en.wikipedia.org/wiki/Static_program_analysis
