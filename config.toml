@@ -41,6 +41,7 @@ enableGitInfo = true
     enableNetlifyCMS = true
 
     gitUrl = "https://github.com/laymonage/blog/commit/"
+    gitHistoryUrl = "https://github.com/laymonage/blog/commits/master/content/"
     showGitDate = false
 
 
