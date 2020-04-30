@@ -7,8 +7,7 @@ comments = true
 draft = false
 description = """
 Agile is a word I often see in role-playing video games.
-However, I learned that it's something that can be applied in
-software development as well.
+It turns out, agile can be applied in software development as well.
 """
 images = ["/images/uploads/cheetah-running.jpg"]
 +++

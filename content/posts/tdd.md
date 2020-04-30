@@ -7,7 +7,7 @@ comments = true
 draft = false
 description = """
 TDD is a good discipline to follow.
-However, it's never a good idea to follow things blindly.
+Still, it's never a good idea to follow things blindly.
 """
 images = ["/images/uploads/test.jpg"]
 +++
@@ -114,7 +114,7 @@ implementation first) is more ideal, **as long as you also write the tests**.
 I don't think it's *ever* a good idea to skip tests.
 
 TDD is a good discipline to follow.
-**However, it's never a good idea to follow things blindly.** TDD, as with
+**Still, it's never a good idea to follow things blindly.** TDD, as with
 other things, **isn't** something that you should always follow
 *no matter what*. When applying something doesn't work for your project, you
 need to take a step back and **identify** if it may be a good time to stop
