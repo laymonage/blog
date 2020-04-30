@@ -9,7 +9,7 @@ description = """
 Managing multiple services in a microservices architecture can be quite painful.
 Thankfully, there's a tool that can help us.
 """
-images = ["/images/uploads/ppl-architecture.png"]
+images = ["/images/uploads/ppl-architecture-composed.png"]
 +++
 
 As [previously described][clean-tools], my group and I are building a web
