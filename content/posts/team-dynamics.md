@@ -4,7 +4,7 @@ date = 2020-05-14T09:34:47+07:00
 tags = ["ppl", "team"]
 toc = false
 comments = true
-draft = false
+draft = true
 description = """
 Team projects are fun...
 if you enjoy working with your team.

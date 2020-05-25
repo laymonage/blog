@@ -4,7 +4,7 @@ date = 2020-05-13T22:28:19+07:00
 tags = ["ppl", "ui/ux", "persona"]
 toc = false
 comments = true
-draft = false
+draft = true
 description = """
 Interface design can be tricky to get right.
 When in doubt, refer to your persona.
