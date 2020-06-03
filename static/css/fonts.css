@@ -100,11 +100,6 @@ em, i {
     line-height: 2;
 }
 
-.post p, #post-body ul, #post-list li, #post-body ol, pre {
-    /* 25px */
-    margin-bottom: 25px;
-}
-
 h1, h3, h4, h5 {
     margin-bottom: 12px;
 }
