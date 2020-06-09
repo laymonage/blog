@@ -45,7 +45,7 @@ In short, the stages are:
     start writing the patch for it.
   - **Has Patch**: a patch has been submitted, waiting for review.
   - **Has Patch + Needs …**: the ticket and patch have been reviewed, and
-    have found to need further work. That can either be **"Needs tests"**,
+    have been found to need further work. That can either be **"Needs tests"**,
     **"Needs documentation"**, or **"Needs improvement"**.
 - **Ready For Checkin (RFC)**: the ticket has been reviewed by any member of
   the community (other than the one who submitted the patch) and found to
@@ -155,7 +155,8 @@ more concrete look of your idea (while also discussing it on Trac and/or the
 [django-developers][django-developers] mailing-list).
 
 Now that you've understood how Django's Git flow works, why not take on the
-[**tickets**][tickets] on Trac, and **help your web framework grow**? ;)
+[**tickets**][tickets] on Trac, and **help your web framework grow**?
+[**Your web framework needs you!**][your-web-framework-needs-you] ;)
 
 [django]: https://djangoproject.com
 [git]: https://git-scm.com
@@ -176,3 +177,4 @@ Now that you've understood how Django's Git flow works, why not take on the
 [draft]: https://github.blog/2019-02-14-introducing-draft-pull-requests
 [django-developers]: https://groups.google.com/forum/#!forum/django-developers
 [tickets]: https://code.djangoproject.com/query
+[your-web-framework-needs-you]: https://www.youtube.com/watch?v=1BFjg9XtptM
