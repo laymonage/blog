@@ -4,7 +4,7 @@ date = 2020-03-10T00:24:20+07:00
 tags = ["ppl", "agile"]
 toc = true
 comments = true
-draft = false
+draft = true
 description = """
 Agile is a word I often see in role-playing video games.
 It turns out, agile can be applied in software development as well.

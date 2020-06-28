@@ -4,7 +4,7 @@ date = 2020-05-14T11:49:00+07:00
 tags = ["ppl", "devops"]
 toc = false
 comments = true
-draft = false
+draft = true
 description = """
 Continuous integration pairs nicely with continuous deployment.
 """

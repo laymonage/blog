@@ -4,7 +4,7 @@ date = 2020-04-30T10:24:31+07:00
 tags = ["ppl", "nodejs", "orm"]
 toc = true
 comments = true
-draft = false
+draft = true
 description = """
 Moving to NodeJS, Django's ORM is something I really miss.
 So, I tried two popular ORMs for NodeJS and see if they provide

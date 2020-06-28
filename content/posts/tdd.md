@@ -4,7 +4,7 @@ date = 2020-03-11T23:52:31+07:00
 tags = ["ppl", "testing"]
 toc = true
 comments = true
-draft = false
+draft = true
 description = """
 TDD is a good discipline to follow.
 Still, it's never a good idea to follow things blindly.
